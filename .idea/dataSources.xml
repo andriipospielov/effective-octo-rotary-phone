@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2805853569">
+    <data-source source="LOCAL" name="Sqlite (Xerial) - database.sqlite" uuid="813ec51b-2c19-47f3-a1c9-4c00c11b6768">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/laravel/database/database.sqlite</jdbc-url>
+    </data-source>
+  </component>
+</project>
